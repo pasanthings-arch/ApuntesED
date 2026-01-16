@@ -55,3 +55,4 @@
 `git reset --hard HEAD`: Elimina los cambios realizados que aún no se hayan hecho commit.
 
 `git revert <hash_commit>`: Revierte el commit realizado, identificado por el “hash_commit”.
+`git clone : Copiar un repositorio de GitHub a tu local
